@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TODO: Fichero para Configurar las Dimensiones de los Objetos del Diseño -->
+    <dimen name="standard_margin">8dp</dimen>
+    <dimen name="small_padding">4dp</dimen>
+    <dimen name="heading_top_marging">24dp</dimen>
+    <dimen name="padding_wide">16dp</dimen>
+    <dimen name="body_top_margin">96dp</dimen>
+    <dimen name="body_width">220dp</dimen>
+    <dimen name="padding_standard">8dp</dimen>
+    <dimen name="image_left_margin">96dp</dimen>
+    <dimen name="margin_wide">16dp</dimen>
+
+    <dimen name="margin_horizontal1">5dp</dimen>
+    <dimen name="margin_horizontal2">5dp</dimen>
+</resources>

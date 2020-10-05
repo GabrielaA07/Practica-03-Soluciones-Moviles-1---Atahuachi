@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Practica03_Atahuachi</string>
+
+    <string name="title2">Houseki no Kuni</string>
+    <string name="article2">En un futuro lejano, ha nacido una nueva forma de vida bautizada como ‘houseki’ (“gemas”). Las 28 houseki, con diferentes cometidos como guerrero o médico, deben luchar contra los ‘tsukijin’ (“gente de la Luna”), que tienen como objetivo convertirlas en objetos decorativos.</string>
+
+    <string name="title1">Hanayamata</string>
+    <string name="article1">La historia está protagonizada por Naru Sekiya, una chica de apariencia normal, inteligencia normal, que no destaca en los deportes, y que lleva una vida de lo más corriente.</string>
+
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+
+    <string name="vot_article1">Hanayamata</string>
+    <string name="vot_article2">Houseki no Kuni</string>
+    <string name="question_article">¿Cuál de estas Películas te Gusta?</string>
+
+    <string name="open">Abrir</string>
+    <string name="close">Cerrar</string>
+
+    <string name="exception_message">Es Necesario Implementar la Interfaz&#8230;!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="open_txt">Debe Votar por una de estas Películas&#8230;!</string>
+</resources>
